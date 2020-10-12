@@ -3,11 +3,6 @@
 + Substrate is powered by best-in-class cryptographic research and comes with peer-to-peer networking, consensus mechanisms, and much more.
 + It saves us development time for the basic part, so we have more time to develop business modules.
 
-## Template Structure
-
-A Substrate project such as this consists of a number of components that are spread across a few
-directories.
-
 ### Node
 
 A blockchain node is an application that allows users to participate in a blockchain network.
