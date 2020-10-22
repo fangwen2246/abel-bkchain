@@ -43,3 +43,10 @@ capabilities and configuration parameters that it exposes:
 ```shell
 ./target/release/node-template --help
 ```
+## Features
+
+This template includes the minimum required components to start a PoS testnet, inspired by [substrate-node-template](https://github.com/substrate-developer-hub/substrate-node-template).
+
+* Consensus related pallets: Babe & GRANDPA
+* Staking related pallets: staking, session, authorship, im-online, offences, utility
+* Governance related pallets: collective, membership, elections-phragmen, democracy, treasure
